@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "basic synonym scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwerg01/basic-scarper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dwerg01/basic-scarper/issues"
+  },
+  "homepage": "https://github.com/Dwerg01/basic-scarper#readme"
+}
